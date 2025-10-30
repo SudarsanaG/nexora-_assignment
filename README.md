@@ -119,7 +119,7 @@ Frontend
 
 ## Demo
 
-Unlisted video (1–2 minutes): https://www.loom.com/share/<your-demo-id>
+Unlisted video : https://youtu.be/Gr6ILnNCDio
 
 Shows: load products → add/remove → cart total → checkout receipt.
 
